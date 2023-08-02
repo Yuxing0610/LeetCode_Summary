@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Leetcode Summary
+Study Summary
 ============================================
 
-This document served as record and summary for problem solving process on leetcode problems.
+This document served as record and summary for problem solving process on leetcode problems as well as documentation for related knowledge.
 
 .. important::
 
@@ -22,4 +22,6 @@ The :doc:`categorized_algorithm/index` is a general index list for problems. Her
    :titlesonly:
 
    categorized_algorithm/index
+
+
 
